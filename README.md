@@ -73,3 +73,12 @@ node <script> "your prompt" --token YOUR_TOKEN
 
 Returns a direct image URL.
 
+## Example Output
+
+```bash
+node plushtoygenerator.js "adorable handmade plush toy of {subject}, soft fluffy fabric texture, visible stitching and seams, button eyes, embroidered details, sitting upright on plain pastel background, shot like a product photo for a toy store, soft studio lighting, kawaii stuffed animal aesthetic, hyper-tactile fuzzy surface, cute collectible plushie, high detail"
+```
+
+![Example output](https://oss.talesofai.cn/picture/883da097-a36b-4d60-ad34-804e8824f90e.webp)
+
+> Prompt: *"adorable handmade plush toy of {subject}, soft fluffy fabric texture, visible stitching and seams, button eyes, embroidered details, sitting upright on plain pastel background, shot like a product photo for a toy store, soft studio lighting, kawaii stuffed animal aesthetic, hyper-tactile fuzzy surface, cute collectible plushie, high detail"*
